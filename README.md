@@ -60,11 +60,3 @@ You can use any serial Bluetooth terminal or design a custom Android app using M
 2. Once authenticated, it enables Bluetooth command control.
 3. User sends directional commands via Bluetooth.
 4. Car responds accordingly using motor driver.
-
-## 🗂️ File Structure
-
-```plaintext
-ARDUINO_BTCAR_WITH_FINGERPRINT_AUTH/
-├── Arduino_BTCAR_Fingerprint.ino   # Main Arduino code
-├── README.md                       # Project documentation
-├── Images/                         # Diagrams or screenshots (optional)
