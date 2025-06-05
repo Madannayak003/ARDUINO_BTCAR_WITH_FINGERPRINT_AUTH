@@ -1,4 +1,3 @@
-# ARDUINO_BTCAR_WITH_FINGERPRINT_AUTH
 # Arduino Bluetooth Car with Fingerprint Authentication
 
 This project demonstrates a secure, Bluetooth-controlled smart car built using Arduino. It features **biometric authentication** with a fingerprint sensor, ensuring only authorized users can control the car via Bluetooth.
@@ -30,14 +29,13 @@ This project demonstrates a secure, Bluetooth-controlled smart car built using A
 ## 🔌 Wiring Overview
 
 | Component         | Arduino Pin |
-|------------------|-------------|
+|-------------------|-------------|
 | Fingerprint TX    | Pin 10      |
 | Fingerprint RX    | Pin 11      |
 | HC-05 TX          | Pin 0 (RX)  |
 | HC-05 RX          | Pin 1 (TX)  |
-| L298N IN1-IN4     | Pins 4, 5, 6, 7 |
-| Enable Pins       | 5V (or PWM pins) |
-| Servo (optional)  | Pin 9       |
+| L293D Motor driver|
+| Arduino Uno       |
 
 *Adjust pins as per your design*
 
