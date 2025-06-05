@@ -60,3 +60,14 @@ You can use any serial Bluetooth terminal or design a custom Android app using M
 2. Once authenticated, it enables Bluetooth command control.
 3. User sends directional commands via Bluetooth.
 4. Car responds accordingly using motor driver.
+
+Author
+Developed by: MADAN.R
+GitHub: https://github.com/Madannayak003
+
+License
+This project is licensed under the MIT License - free to use and modify.
+
+## 🌐 Live Demo
+
+[![Visit Website](https://img.shields.io/badge/View_Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://madannayak003.github.io/-WEB-PAGE-/)
